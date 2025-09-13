@@ -1,1 +1,1 @@
-This project was made as part of my Bachelor's in economics. The R code was used to generate graphs in the report from the database "General Household Survey, Panel of 2010, 2012, 2015 and 2018  ( https://microdata.worldbank.org/index.php/catalog/3557)
+This project was carried out as part of my Bachelor’s in Economics. The R code was used to estimate poverty indexes from the ‘General Household Survey, Panel of 2010, 2012, 2015, and 2018’ (https://microdata.worldbank.org/index.php/catalog/3557) and to create the visualizations
